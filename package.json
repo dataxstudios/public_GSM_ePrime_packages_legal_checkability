@@ -42,7 +42,6 @@
     "core-js": "2.6.2",
     "date-fns": "2.30.0",
     "fflate": "^0.8.2",
-    "highlight.js": "11.8.0",
     "lodash-es": "4.17.21",
     "moment": "2.29.4",
     "ngx-cookie-service": "14.0.1",
